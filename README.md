@@ -10,7 +10,7 @@ Currently employed at Samsung Electronics as Staff Machine Learning Engineer
 - Computer Vision
 - Graph Neural Networks
 - Optimization
-
+<!--
 ## Skills:
 
 #### Languages:
@@ -27,7 +27,7 @@ Currently employed at Samsung Electronics as Staff Machine Learning Engineer
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)&nbsp;
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 
-<!--
+
 #### Tools and Technologies
 
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)&nbsp;
