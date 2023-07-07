@@ -5,7 +5,7 @@ Experienced Engineer with a demonstrated history of working in the research indu
 Currently employed at Samsung Electronics as Staff Machine Learning Engineer
 
 **My Reseach Interest**:
-- [robot]Autonomous Robotics
+- Autonomous Robotics
 - Deep Learning
 - Computer Vision
 - Graph Neural Networks
@@ -27,10 +27,11 @@ Currently employed at Samsung Electronics as Staff Machine Learning Engineer
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)&nbsp;
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 
-
+<!--
 #### Tools and Technologies
 
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)&nbsp;
+
 
 ## Connect with me:
 
@@ -40,6 +41,7 @@ Currently employed at Samsung Electronics as Staff Machine Learning Engineer
 
 </p>
 
+--!>
 <!--
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rajumanukonda&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Raju's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajumanukonda&layout=compact&theme=buefy&hide_border=true" /></a> |
