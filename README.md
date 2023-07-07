@@ -4,7 +4,7 @@ Experienced Engineer with a demonstrated history of working in the research indu
 
 Currently employed at Samsung Electronics as Staff Machine Learning Engineer
 
-**My Reseach Interest**:
+**My Reseach Interests**:
 - Autonomous Robotics
 - Deep Learning
 - Computer Vision
